@@ -1,4 +1,9 @@
 name vorname strasse nr plz ort telefonnummer e-mail
 good michael hanfländerstrasse 66 6666 buchs 077 77 77 michael.good@bzbs.com
 Ljubic Noah Altendorferstrasse 4 079 837 43 19 noahljubic2@gmail.com
+<<<<<<< HEAD
+Christofer Martyridis Eichbergerstrasse 0 079 675 38 78 xristopher.mart08@gmail.com
+=======
+Maiolo Gregorio Staatsstrasse 5 7320 Sargans 078 657 84 75 gregorio.maiolo.08@gmail.com
+>>>>>>> ab8e45af1b33cb9a3de96758ce19d4baadfdc6e2
 Christofer Martyridis Eichbergerstrasse 0 079 675 38 78 xristopher.mart08@gmail.com
