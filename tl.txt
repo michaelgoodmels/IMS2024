@@ -5,4 +5,9 @@ Ljubic Noah Altendorferstrasse 4 079 837 43 19 noahljubic2@gmail.com
 Maiolo Gregorio Staatsstrasse 5 7320 Sargans 078 657 84 75 gregorio.maiolo.08@gmail.com
 Christofer Martyridis Eichbergerstrasse 0 079 675 38 78 xristopher.mart08@gmail.com
 roman zelinskii talstrasse 28 7250 klosters 079 777 77 77 roman@roman.com
+<<<<<<< HEAD
 bill gates poalo alto 99 9999 california 099 99 99 bill.gates@microsoft.com
+=======
+steve jobs macintoshstrasse 1 6666 palo alto california 777 77 77 77 steve.jobs@mac.com
+skibidi toilet klozguys
+>>>>>>> 012638a46937cf9f6bf514d1484215b67ef05681
